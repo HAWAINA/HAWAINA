@@ -3,7 +3,7 @@
 <p align="center">
  
 </p align="center">
-<img src="HAWAINA.jpg" />
+<img src="./media/HAWAINA.jpg" />
 
 <p align="center">
  
