@@ -44,7 +44,7 @@
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
-  <img src="https://github.com/HAWAINA/HAWAINA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://skyline.github.com/HAWAINA/2022" alt="snake"></center>
 </p>
 
 <h2 align="center">
