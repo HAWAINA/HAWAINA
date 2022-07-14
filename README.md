@@ -44,8 +44,8 @@
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
-  <img src="https://skyline.github.com/HAWAINA/2022" alt="snake"></center>
-</p>
+</p>  <img src="![GitHub Snake Light](github-snake.svg#gh-light-mode-only) alt="snake"></center>
+
 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
