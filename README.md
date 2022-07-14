@@ -3,7 +3,7 @@
 <p align="center">
  
 </p align="center">
-<img src="./media/HAWAINA.jpg" />
+<img src="profile.png" />
 
 
 
