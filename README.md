@@ -9,7 +9,10 @@
 
 
 <p align="center">
-  I'm a HAWAINA  🎓 from Guru GeekTech courses 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
+  I'm a HAWAINA  🎓 from Guru GeekTech courses 🏛. 
+  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. 
+  I love to explore new technologies and leverage them to solve real-life problems ✨. 
+  Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
 </p>
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
