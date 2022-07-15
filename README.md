@@ -8,9 +8,9 @@
 
 
 
-<!-- <p align="center">
+<p align="center">
   I'm a HAWAINA  🎓 from Guru GeekTech courses 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
-</p>   -->
+</p>
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
@@ -38,9 +38,6 @@
  <img src="https://img.shields.io/badge/-HAWAINA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hawaina-ismet-903451233/"/>
 </a>
 </p>
-
-
-
 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
