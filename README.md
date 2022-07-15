@@ -42,6 +42,12 @@
 <a href="https://www.linkedin.com/in/hawaina-ismet-903451233/">
  <img src="https://img.shields.io/badge/-HAWAINA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hawaina-ismet-903451233/"/>
 </a>
+<a href="https://t.me/HAWAINA">
+ <img src="https://img.shields.io/badge/-HAWAINA-green?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/HAWAINA"/>
+</a>
+<a href="https://www.linkedin.com/in/hawaina-ismet-903451233/">
+ <img src="https://img.shields.io/badge/-HAWAINA-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hawaina-ismet-903451233/"/>
+</a>
 </p>
 
 <h2 align="center">
