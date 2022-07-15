@@ -44,7 +44,7 @@
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
-</p>  <img src="![GitHub Snake Light](github-snake.svg#gh-light-mode-only) alt="snake"></center>
+</p>  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif" alt="snake"></center>
 
 
 <h2 align="center">
