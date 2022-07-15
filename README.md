@@ -9,12 +9,12 @@
 
 
 <p align="center">
-  <h1>I'm a HAWAINA  🎓<h1/> 
-  <h1>from Guru GeekTech courses 🏛. <h1/>
-  <h1>I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. <h1/>
-  <h1>I love to explore new technologies and leverage them to solve real-life problems ✨. <h1/>
-  <h1>Apart from that I also love to guide and mentor newbies👨🏻‍💻. <h1/>
-  <h1>I'm deep into Web 🕸️ Development.<h1/>
+  <h3>I'm a HAWAINA  🎓<h3/> 
+  <h3>from Guru GeekTech courses 🏛. <h3/>
+  <h3>I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. <h3/>
+  <h3>I love to explore new technologies and leverage them to solve real-life problems ✨. <h3/>
+  <h3>Apart from that I also love to guide and mentor newbies👨🏻‍💻. <h3/>
+  <h3>I'm deep into Web 🕸️ Development.<h3/>
 </p>
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
