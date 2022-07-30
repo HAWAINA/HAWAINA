@@ -3,7 +3,7 @@
 <p align="center">
  
 </p align="center">
-<img src="./media/profile.png" />
+<img src="./media/logo_1.png" />
 
 
 
